@@ -1,0 +1,6 @@
+---
+title: Welcome to my blog
+---
+custimizing my homepage. we are no strangers to love...
+                        you know the rules and so do i...
+
